@@ -1,0 +1,8 @@
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\bin\Debug\PhoenixChatClientLibrary.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\bin\Debug\PhoenixChatClientLibrary.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\bin\Debug\PhoenixLibraryChat.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\bin\Debug\PhoenixLibraryChat.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\obj\Debug\PhoenixClientLibraryChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\obj\Debug\PhoenixClientLibraryChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\obj\Debug\PhoenixChatClientLibrary.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ClientLibraryMeowChat\obj\Debug\PhoenixChatClientLibrary.pdb

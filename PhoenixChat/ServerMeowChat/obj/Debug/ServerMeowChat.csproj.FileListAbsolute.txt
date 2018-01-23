@@ -1,0 +1,92 @@
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatServer.exe.config
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatServer.exe
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatServer.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatClientLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatServerLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatClientLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\CommonLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\bin\Debug\MeowChatServerLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\ServerMeowChat.csprojResolveAssemblyReference.cache
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\MeowChatServer.FrmServer.resources
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\MeowChatServer.Properties.Resources.resources
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\ServerMeowChat.csproj.GenerateResource.Cache
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\MeowChatServer.exe
+E:\Porjects\c#\Chat\ChatApplicationV4\Server\obj\Debug\MeowChatServer.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\MeowChatServer.exe.config
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\MeowChatServer.exe
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\MeowChatServer.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\MeowChatServer.exe
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\MeowChatServer.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\MeowChatServerLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\CommonLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\bin\Debug\MeowChatServerLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\ServerMeowChat.csprojResolveAssemblyReference.cache
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\MeowChatServer.FrmServer.resources
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\MeowChatServer.Properties.Resources.resources
+E:\Porjects\c#\Chat\ChatApplicationV4\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.GenerateResource.Cache
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.exe.config
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.exe
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.pdb
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.exe
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.pdb
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.dll
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.pdb
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\ServerMeowChat.csprojResolveAssemblyReference.cache
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServer.resources
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.Properties.Resources.resources
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.GenerateResource.Cache
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\LibraryMeowChat.dll
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\LibraryMeowChat.pdb
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerImages.resources
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerProgressBar.resources
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\ServerDataBase.mdf
+E:\Porjects\c#\MeowChat\ServerMeowChat\bin\Debug\ServerDataBase_log.ldf
+E:\Porjects\c#\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmData.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\ServerDataBase.mdf
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\ServerDataBase_log.ldf
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.exe.config
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.exe.manifest
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.application
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.exe
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServer.pdb
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\LibraryMeowChat.dll
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.dll
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\LibraryMeowChat.pdb
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.pdb
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\ServerMeowChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmData.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerImages.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerProgressBar.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServer.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.Properties.Resources.resources
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.GenerateResource.Cache
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.exe.manifest
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.application
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.exe
+C:\Users\s528103\source\repos\MeowChat\ServerMeowChat\obj\Debug\MeowChatServer.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\ServerDataBase.mdf
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\ServerDataBase_log.ldf
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServer.exe.config
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServer.exe.manifest
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServer.application
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServer.exe
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServer.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\LibraryMeowChat.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\LibraryMeowChat.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\bin\Debug\MeowChatServerLibrary.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\ServerMeowChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmData.resources
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerImages.resources
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServerProgressBar.resources
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.FrmServer.resources
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.Properties.Resources.resources
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.GenerateResource.Cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\ServerMeowChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.exe.manifest
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.application
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.exe
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\ServerMeowChat\obj\Debug\MeowChatServer.pdb

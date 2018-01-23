@@ -1,0 +1,8 @@
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\bin\Release\MeowChatClientLibrary.dll
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\bin\Release\MeowChatClientLibrary.pdb
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\bin\Release\LibraryMeowChat.dll
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\bin\Release\LibraryMeowChat.pdb
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\obj\Release\ClientLibraryMeowChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\obj\Release\ClientLibraryMeowChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\obj\Release\MeowChatClientLibrary.dll
+C:\Users\s528103\source\repos\MeowChat\ClientLibraryMeowChat\obj\Release\MeowChatClientLibrary.pdb

@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixCollaborationApp", "PhoenixCollaborationApp\PhoenixCollaborationApp.csproj", "{2B47B3A7-E29D-45D2-9172-8141E4293EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixLibraryChat", "..\PhoenixChat\LibraryMeowChat\PhoenixLibraryChat.csproj", "{1941FEED-BAE1-4248-A9E5-E7E488571D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixClientChat", "..\PhoenixChat\ClientMeowChat\PhoenixClientChat.csproj", "{1F859721-A396-4E19-B01C-0E08BA00B58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixClientLibraryChat", "..\PhoenixChat\ClientLibraryMeowChat\PhoenixClientLibraryChat.csproj", "{A2759C36-04D0-46C6-A5B0-8349FD371FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixServerChat", "..\PhoenixChat\ServerMeowChat\PhoenixServerChat.csproj", "{33F883CA-4BFD-4816-9A69-DA8C2039F723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixServerLibraryChat", "..\PhoenixChat\ServerLibraryMeowChat\PhoenixServerLibraryChat.csproj", "{95A39F40-E094-4E2E-9896-3507F3FE436F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DeployChatServer", "..\PhoenixChat\DeployChatServer\DeployChatServer.vdproj", "{2E0580F3-90F6-4B3C-A870-16F5749FAF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixGoogleDriveManager", "..\DriveManager\GoogleDriveManager\FormApp\PhoenixGoogleDriveManager.csproj", "{DD892A7F-127B-4C23-85ED-FCD329E3D7A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Google Drive Manager", "..\DriveManager\GoogleDriveManager\Google Drive Manager\Google Drive Manager.vdproj", "{6864AE6A-EC1B-47DF-BDA9-2931DEA4BE7D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhoenixCollaborationApplication", "PhoenixCollaborationApplication\PhoenixCollaborationApplication.vdproj", "{82221E27-60D7-49D1-8E91-39E76EAD180C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B47B3A7-E29D-45D2-9172-8141E4293EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B47B3A7-E29D-45D2-9172-8141E4293EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B47B3A7-E29D-45D2-9172-8141E4293EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B47B3A7-E29D-45D2-9172-8141E4293EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1941FEED-BAE1-4248-A9E5-E7E488571D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1941FEED-BAE1-4248-A9E5-E7E488571D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1941FEED-BAE1-4248-A9E5-E7E488571D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1941FEED-BAE1-4248-A9E5-E7E488571D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F859721-A396-4E19-B01C-0E08BA00B58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F859721-A396-4E19-B01C-0E08BA00B58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F859721-A396-4E19-B01C-0E08BA00B58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F859721-A396-4E19-B01C-0E08BA00B58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2759C36-04D0-46C6-A5B0-8349FD371FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2759C36-04D0-46C6-A5B0-8349FD371FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2759C36-04D0-46C6-A5B0-8349FD371FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2759C36-04D0-46C6-A5B0-8349FD371FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F883CA-4BFD-4816-9A69-DA8C2039F723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F883CA-4BFD-4816-9A69-DA8C2039F723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F883CA-4BFD-4816-9A69-DA8C2039F723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F883CA-4BFD-4816-9A69-DA8C2039F723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A39F40-E094-4E2E-9896-3507F3FE436F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A39F40-E094-4E2E-9896-3507F3FE436F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A39F40-E094-4E2E-9896-3507F3FE436F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A39F40-E094-4E2E-9896-3507F3FE436F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0580F3-90F6-4B3C-A870-16F5749FAF87}.Debug|Any CPU.ActiveCfg = Debug
+		{2E0580F3-90F6-4B3C-A870-16F5749FAF87}.Release|Any CPU.ActiveCfg = Release
+		{DD892A7F-127B-4C23-85ED-FCD329E3D7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD892A7F-127B-4C23-85ED-FCD329E3D7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD892A7F-127B-4C23-85ED-FCD329E3D7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD892A7F-127B-4C23-85ED-FCD329E3D7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6864AE6A-EC1B-47DF-BDA9-2931DEA4BE7D}.Debug|Any CPU.ActiveCfg = Debug
+		{6864AE6A-EC1B-47DF-BDA9-2931DEA4BE7D}.Release|Any CPU.ActiveCfg = Release
+		{82221E27-60D7-49D1-8E91-39E76EAD180C}.Debug|Any CPU.ActiveCfg = Debug
+		{82221E27-60D7-49D1-8E91-39E76EAD180C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97050C5C-F21A-485D-885E-461FF20D51FC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://avbhardwaj.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PhoenixCollaborationApp\\PhoenixCollaborationApp.csproj
+		SccProjectName1 = PhoenixCollaborationApp
+		SccLocalPath1 = PhoenixCollaborationApp
+		SccProjectUniqueName2 = ..\\PhoenixChat\\DeployChatServer\\DeployChatServer.vdproj
+		SccProjectName2 = ../PhoenixChat/DeployChatServer
+		SccLocalPath2 = ..\\PhoenixChat\\DeployChatServer
+		SccProjectUniqueName3 = ..\\DriveManager\\GoogleDriveManager\\Google\u0020Drive\u0020Manager\\Google\u0020Drive\u0020Manager.vdproj
+		SccProjectName3 = ../DriveManager/GoogleDriveManager/Google\u0020Drive\u0020Manager
+		SccLocalPath3 = ..\\DriveManager\\GoogleDriveManager\\Google\u0020Drive\u0020Manager
+		SccProjectUniqueName4 = ..\\PhoenixChat\\ClientLibraryMeowChat\\PhoenixClientLibraryChat.csproj
+		SccProjectName4 = ../PhoenixChat/ClientLibraryMeowChat
+		SccLocalPath4 = ..\\PhoenixChat\\ClientLibraryMeowChat
+		SccProjectUniqueName5 = ..\\PhoenixChat\\ClientMeowChat\\PhoenixClientChat.csproj
+		SccProjectName5 = ../PhoenixChat/ClientMeowChat
+		SccLocalPath5 = ..\\PhoenixChat\\ClientMeowChat
+		SccProjectUniqueName6 = ..\\DriveManager\\GoogleDriveManager\\FormApp\\PhoenixGoogleDriveManager.csproj
+		SccProjectName6 = ../DriveManager/GoogleDriveManager/FormApp
+		SccLocalPath6 = ..\\DriveManager\\GoogleDriveManager\\FormApp
+		SccProjectUniqueName7 = ..\\PhoenixChat\\ServerLibraryMeowChat\\PhoenixServerLibraryChat.csproj
+		SccProjectName7 = ../PhoenixChat/ServerLibraryMeowChat
+		SccLocalPath7 = ..\\PhoenixChat\\ServerLibraryMeowChat
+		SccProjectUniqueName8 = ..\\PhoenixChat\\ServerMeowChat\\PhoenixServerChat.csproj
+		SccProjectName8 = ../PhoenixChat/ServerMeowChat
+		SccLocalPath8 = ..\\PhoenixChat\\ServerMeowChat
+		SccProjectUniqueName9 = ..\\PhoenixChat\\LibraryMeowChat\\PhoenixLibraryChat.csproj
+		SccProjectName9 = ../PhoenixChat/LibraryMeowChat
+		SccLocalPath9 = ..\\PhoenixChat\\LibraryMeowChat
+		SccProjectUniqueName10 = PhoenixCollaborationApplication\\PhoenixCollaborationApplication.vdproj
+		SccProjectName10 = PhoenixCollaborationApplication
+		SccLocalPath10 = PhoenixCollaborationApplication
+	EndGlobalSection
+EndGlobal

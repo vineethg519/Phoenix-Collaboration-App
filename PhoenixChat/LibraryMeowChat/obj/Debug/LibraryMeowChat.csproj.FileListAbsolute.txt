@@ -1,0 +1,20 @@
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\bin\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\bin\Debug\CommonLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\obj\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\obj\Debug\CommonLibrary.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.dll
+E:\Porjects\c#\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.dll
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\source\repos\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.dll
+C:\Users\s528103\source\repos\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.pdb
+C:\Users\s528103\source\repos\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\source\repos\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.dll
+C:\Users\s528103\source\repos\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.pdb
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.csprojResolveAssemblyReference.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.csproj.CoreCompileInputs.cache
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.dll
+C:\Users\s528103\Desktop\GDPVSO\Phoenix Collaboration\PhoenixChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.pdb
